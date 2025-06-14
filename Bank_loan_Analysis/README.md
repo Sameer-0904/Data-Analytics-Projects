@@ -97,9 +97,9 @@ Each row includes:
 
 ## 📸 Dashboard Previews
 
-<a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Bank_loan_Analysis/Dashboard%20Images/Details-Dashboard.png"> Details Dashboard </a>
-<a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Bank_loan_Analysis/Dashboard%20Images/Overview-Dashboard.png"> Overview Dashboard </a>
-<a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Bank_loan_Analysis/Dashboard%20Images/Summary-Dashboard.png"> Summary Dashboard </a>
+1. <a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Bank_loan_Analysis/Dashboard%20Images/Details-Dashboard.png"> Details Dashboard </a><br>
+2. <a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Bank_loan_Analysis/Dashboard%20Images/Overview-Dashboard.png"> Overview Dashboard </a><br>
+3. <a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Bank_loan_Analysis/Dashboard%20Images/Summary-Dashboard.png"> Summary Dashboard </a>
 
 ---
 
