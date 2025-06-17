@@ -1,4 +1,3 @@
-# Data-Analytics-Projects
 # 📊 Bank Loan Analysis Dashboard
 
 This project showcases an interactive **Bank Loan Analysis Dashboard** designed for visualizing and monitoring performance metrics across various aspects of banking loans. The dashboard helps analyze loan distribution, customer behavior, funding performance, and risk evaluation.
