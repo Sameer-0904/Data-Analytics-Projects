@@ -100,7 +100,9 @@ This view highlights the top and bottom-performing pizzas across several metrics
 
 * **Power BI** – for interactive dashboard creation
                - data cleaning and transformation
-* **Sql** - for cross check the values by firing the quaries
+* **Sql** - for cross check the values by firing the queries
 
 ---
+## Dashboard Images
+1. <a href=""> Home Dashbord </a>
 
