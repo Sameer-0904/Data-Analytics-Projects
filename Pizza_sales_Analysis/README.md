@@ -104,5 +104,6 @@ This view highlights the top and bottom-performing pizzas across several metrics
 
 ---
 ## Dashboard Images
-1. <a href=""> Home Dashbord </a>
+1. <a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Pizza_sales_Analysis/Dashboard-Images/Home-Dashboard.png"> Home Dashbord </a>
+2. <a href="https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Pizza_sales_Analysis/Dashboard-Images/BestWorst_Sellers-Dashboard.png"> Best/Worst Sellers Dashbord </a>
 
