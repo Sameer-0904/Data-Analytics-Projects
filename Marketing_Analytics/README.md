@@ -38,14 +38,14 @@ Analyzes views, clicks, and likes by product and content type (blog, video, etc.
 ## 📸 Dashboard Previews
 
 ### 🔹 Marketing Overview Dashboard
-![Overview Dashboard](assets/overview-dashboard.png)
+![Overview Dashboard]([assets/overview-dashboard.png](https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Marketing_Analytics/Dashboard%20Images/Overview-Dashboard.png))
 
 ### 🔹 Sales Conversion Dashboard
-![Conversion Dashboard](assets/conversion-dashboard.png)
+![Conversion Dashboard]([assets/conversion-dashboard.png](https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Marketing_Analytics/Dashboard%20Images/Conversion-Details-Dashboard.png))
 
 ### 🔹 Customer Sentiment Dashboard
-![Customer Review Dashboard](assets/customer-reviews-dashboard.png)
+![Customer Review Dashboard]([assets/customer-reviews-dashboard.png](https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Marketing_Analytics/Dashboard%20Images/Customer-reviews-Dashboard.png))
 
 ### 🔹 Social Media Performance Dashboard
-![Social Media Dashboard](assets/social-media-dashboard.png)
+![Social Media Dashboard]([assets/social-media-dashboard.png](https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Marketing_Analytics/Dashboard%20Images/Social-Media-Dashboard.png))
 
