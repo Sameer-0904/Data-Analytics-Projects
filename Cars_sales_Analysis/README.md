@@ -30,7 +30,7 @@ The **Overview** dashboard provides a high-level summary of the car sales metric
 - **Weekly Sales Trend**: Highlights sales spikes and low-performing weeks
 - **Sales by Dealer Region**: U.S. map shows regional performance
 
-![Overview Dashboard](./Overview-Dashboard.png)
+![Overview Dashboard](https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Cars_sales_Analysis/Dashboard%20Images/Overview-Dashboard.png)
 
 ---
 
@@ -52,7 +52,7 @@ The **Details** dashboard allows users to drill down into individual sales trans
 - Interactive charts and bar visualizations to highlight high/low sales
 - Dealer-wise and model-wise breakdown for decision-making
 
-![Details Dashboard](./Details-Dashboard.png)
+![Details Dashboard](https://github.com/Sameer-0904/Data-Analytics-Projects/blob/main/Cars_sales_Analysis/Dashboard%20Images/Details-Dashboard.png)
 
 ---
 
