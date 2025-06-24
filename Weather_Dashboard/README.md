@@ -53,5 +53,5 @@ The current display shows:
 
 ---
 ## Connect with me
-* ![Linkedin]
-* ![Instagram]
+* [!Linkedin]
+* [!Instagram]
