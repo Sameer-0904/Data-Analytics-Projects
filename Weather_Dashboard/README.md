@@ -53,5 +53,5 @@ The current display shows:
 
 ---
 ## Connect with me
-* Linkedin
-* Instagram
+*Linkedin(https://www.linkedin.com/in/sameer-prajapati-944ab928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+*Instagram(https://www.instagram.com/sameer_.0904?igsh=Yjk5OGp0M2pyaDJ3)
