@@ -4,3 +4,4 @@
 ## 3.Marketing-Analytics
 ## 4.Cars-Sales-Analysis
 ## 5.Real-Time-Weather-Dashboard
+## 6.Hotel-Bookings-Analysis
