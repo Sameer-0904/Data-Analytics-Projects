@@ -41,6 +41,10 @@ This project explores hotel booking data to uncover patterns and identify the **
 
 ---
 
+### 👨‍💻 Developed by
 
+**Sameer Prajapati**
+
+[LinkedIn](https://www.linkedin.com/in/sameer-prajapati-944ab928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Sameer-0904) 
 
 
