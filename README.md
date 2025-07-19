@@ -6,3 +6,4 @@
 ## 5.Real-Time-Weather-Dashboard
 ## 6.Hotel-Bookings-Analysis
 ## 7.Sleep-cycle-&-Lifestyle-Analysis
+## 8.Blinkit-Sales-Analysis
