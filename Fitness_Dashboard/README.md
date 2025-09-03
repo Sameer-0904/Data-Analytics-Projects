@@ -47,10 +47,10 @@ This dashboard provides interactive insights for **clients, trainers, and gym ad
 ![Home](Home.png)
 
 ### Calories Calculator
-![Calories Calculator](Calorie Calculator.png)
+![Calories Calculator](Calorie%20Calculator.png)
 
 ### Members Details
-![Members Details](Members Details.png)
+![Members Details](Members%20Details.png)
 
 ### Overview
 ![Overview](Overview.png)
